@@ -15,6 +15,7 @@ Currently building strong hands-on projects in data analytics tools..
 
 Featured Projects
 📊 Sales Performance Dashboard – Power BI
+
 🛒 Retail Data Analysis – Excel & SQL
 
 🎯 Career Objective  
