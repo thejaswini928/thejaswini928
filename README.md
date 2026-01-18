@@ -1,7 +1,9 @@
 ## Hi I'm Thejaswini 👋
 
 🎯 Aspiring Data Analyst
+
 📍 India
+
 🌍 Aspiring to study & work in Ireland
 
 
@@ -13,13 +15,13 @@ I am passionate about analyzing data and converting it into meaningful business 
 Currently building strong hands-on projects in data analytics tools..
 
 🔧  Skills & Tools
-
     Excel (Advanced, Power Query, Pivot Tables)  
     SQL (Joins, Subqueries, Window Functions)   
     Python (Pandas, NumPy, Matplotlib)     
     Power BI (DAX, KPI Dashboards)
 
 Featured Projects
+
 📊 Sales Performance Dashboard – Power BI
 
 🛒 Retail Data Analysis – Excel & SQL
