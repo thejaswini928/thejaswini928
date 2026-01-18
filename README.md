@@ -15,10 +15,12 @@ I am passionate about analyzing data and converting it into meaningful business 
 Currently building strong hands-on projects in data analytics tools..
 
 🔧  Skills & Tools 
+
     Excel (Advanced, Power Query, Pivot Tables)  
     SQL (Joins, Subqueries, Window Functions)   
     Python (Pandas, NumPy, Matplotlib)     
     Power BI (DAX, KPI Dashboards)
+    
 
 Featured Projects
 
