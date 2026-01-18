@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Thejaswini 👋
 
 <!--🎓 Background: Computer Science & Finance  
 📊 Learning: SQL, Excel, Power BI  
