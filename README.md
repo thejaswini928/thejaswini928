@@ -16,7 +16,7 @@ Featured Projects
 📊 Sales Performance Dashboard – Power BI
 🛒 Retail Data Analysis – Excel & SQL
 
-🎯 Career Objective
+🎯 Career Objective  
 To secure an entry-level Data Analyst / Junior Data Analyst role where I can apply my analytical skills to solve real business problems..
 
 
