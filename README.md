@@ -4,6 +4,12 @@
 
 📍 India
 
+
+an aspiring Data Analyst with a background in Computer Science, Finance, and Compliance (KYC).
+I’m building hands-on skills in SQL, Excel, and Power BI by working on real-world datasets.
+My goal is to use data to support better business and risk decisions.
+
+
 I am passionate about analyzing data and converting it into meaningful business insights.
 Currently building strong hands-on projects in data analytics tools..
 
