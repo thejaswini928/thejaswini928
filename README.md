@@ -4,8 +4,6 @@
 
 📍 India
 
-🌍 Aspiring to study & work in Ireland
-
 
 an aspiring Data Analyst with a background in Computer Science, Finance, and Compliance (KYC).
 I’m building hands-on skills in SQL, Excel, and Power BI by working on real-world datasets.
