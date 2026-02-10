@@ -28,7 +28,7 @@ Featured Projects
 
 
 🎯 Career Objective  
-To secure an entry-level Data Analyst / Junior Data Analyst role where I can apply my analytical skills to solve real business problems..
+To secure an entry-level Data Analyst / Junior Data Analyst role where I can apply my analytical skills to solve real business problems.
 
 
 
